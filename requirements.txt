@@ -1,0 +1,10 @@
+torch
+fastapi
+datasets
+transformers
+peft
+protobuf
+sentencepiece
+bitsandbytes
+streamlit
+uvicorn
